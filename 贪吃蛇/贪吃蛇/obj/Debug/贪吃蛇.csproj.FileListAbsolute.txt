@@ -1,0 +1,10 @@
+D:\Desktop\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.exe.config
+D:\Desktop\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.exe
+D:\Desktop\贪吃蛇\贪吃蛇\bin\Debug\贪吃蛇.pdb
+D:\Desktop\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csprojAssemblyReference.cache
+D:\Desktop\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.Form1.resources
+D:\Desktop\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.Properties.Resources.resources
+D:\Desktop\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csproj.GenerateResource.cache
+D:\Desktop\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.csproj.CoreCompileInputs.cache
+D:\Desktop\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.exe
+D:\Desktop\贪吃蛇\贪吃蛇\obj\Debug\贪吃蛇.pdb
